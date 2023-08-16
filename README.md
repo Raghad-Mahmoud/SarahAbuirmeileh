@@ -5,7 +5,7 @@
 
 <br>
 
-<h1>About Me 💎💫</h1>
+<h1>About Me 💎</h1>
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="300" alt="GIF" src="https://github.com/SarahAbuirmeileh/test/assets/127017088/46aa56ce-26d8-433a-9cae-f200ea18aeb1">
 </a>
@@ -23,7 +23,7 @@
 
  <br> <br> 
  
- <h3  align="center">  **Coding:**  where logic meets magic 🧠✨ </h3>
+ <h3  align="center">  **Coding:**  where logic meets magic 🧠💫 </h3>
 
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
