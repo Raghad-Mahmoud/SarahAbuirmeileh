@@ -1,15 +1,11 @@
-<h1 align="center"><b> Hello there, I'm Sarah Abu irmeileh  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><br> 
-<br> 
-
- </h1>
+<h1 align="center"><b> Hello there, I'm Sarah Abu irmeileh  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+<br> <br>  
 
 <h3 align="center">Writing code that speaks louder than words 🔊✨</h3>
 
 <br>
 
-
-<h1>About Me 🌠</h1>
-
+<h1>About Me 💎💫</h1>
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="300" alt="GIF" src="https://github.com/SarahAbuirmeileh/test/assets/127017088/46aa56ce-26d8-433a-9cae-f200ea18aeb1">
 </a>
@@ -25,9 +21,9 @@
 
 #### -  💤 **404:** Sleep not found, debugging life 
 
-   <br> <br> <h3  align="center">  **Coding:**  where logic meets magic ✨🧠 </h3>
-
-
+ <br> <br> 
+ 
+ <h3  align="center">  **Coding:**  where logic meets magic 🧠✨ </h3>
 
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
@@ -47,12 +43,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=SarahAbuirmeileh&count_private=true&theme=github_dark&hide_border=true" alt="SarahAbuirmeileh's Rating" width=440>
 </p>
 
-
 <p align = "center">
-
  <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=SarahAbuirmeileh&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=0d1117&title_color=559ff4&text_color=fcfcfc&icon_color=559ff4" alt = "RaghadAbusamor's Languages/Frameworks" width = 350 />
 </p>
-
 
 <br> 
 
@@ -67,8 +60,6 @@
 </div>
 
 
-
-
 <br><br>
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <p align="center">
@@ -77,6 +68,5 @@
  	<a href="https://github.com/SarahAbuirmeileh"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 </p>
 
-<br>
 
 ![Abhinandan Trilokia](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
