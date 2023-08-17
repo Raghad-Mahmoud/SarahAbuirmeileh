@@ -21,7 +21,7 @@
 
 #### -  💤 **404:** Sleep not found, debugging life 
 
-<br> <br> <h3  align="center">  **Coding:**  where logic meets magic ✨🧠 </h3>
+<br> <br> <h3  align="center">  **Coding:**  where logic meets magic 🧠💫 </h3>
 
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
