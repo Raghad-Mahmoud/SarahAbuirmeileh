@@ -7,7 +7,7 @@
 
 <h1>About Me 💎</h1>
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="300" alt="GIF" src="https://github.com/SarahAbuirmeileh/test/assets/127017088/46aa56ce-26d8-433a-9cae-f200ea18aeb1">
+  <img align="right" top="500" height="300" width="300" alt="GIF" src="https://github.com/SarahAbuirmeileh/SarahAbuirmeileh/assets/127017088/429d958c-6759-4d07-a4c2-3074bea8dfab">
 </a>
 <br/>
 
