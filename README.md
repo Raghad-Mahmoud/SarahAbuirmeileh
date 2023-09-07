@@ -11,7 +11,7 @@
 </a>
 <br/>
 
-####  -  🔭 I’m enthusiastic and passionate back-end and AI developer
+####  -  🔭 I’m enthusiastic and passionate back-end developer
 
 #### -  👩🏻‍💻 I’m studying computer science at PPU
   
