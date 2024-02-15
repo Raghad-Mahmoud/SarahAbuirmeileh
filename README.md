@@ -1,7 +1,7 @@
 
 <div align="center" style="margin-top: 20px;">
     <b>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=7358D9&random=false&width=700&lines=Hello+there!+🙋🏻‍♀️+I'm+Sarah+Abu+irmeileh" style="display: inline-block; vertical-align: top;">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&random=false&width=700&lines=Hello+there!+🙋🏻‍♀️+I'm+Sarah+Abu+irmeileh" style="display: inline-block; vertical-align: top;">
     </b>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" style="display: inline-block; margin-top: 5px;">
 </div>
@@ -16,12 +16,11 @@
 🌃
 🌌 -->
 
-<h3 align="center">Writing code that speaks louder than words 🔊🌠</h3>
+<h3 align="center">Writing code that speaks louder than words 🌠</h3>
 
 <br>
 
-
-<h1 style="color: #8270c3;" >About Me 🔮</h1>
+<h1 >About Me ...🪻</h1>
 <a target="_blank" align="center">
 <br>
   <img align="right" top="100" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzd5d2ViODNvcnhjN29sa2ZwMTlsMnJ5b2FnMGNiNGFvNDVjMHU2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
@@ -34,11 +33,11 @@
   
 #### -  💻 I’m currently working as programming trainer at Code Academy
   
-#### -  🎯 I’m currently focusing on learning Express JS and python
+#### -  🟣 I’m currently focusing on learning Web development and Python
 
 #### -  💤 **404:** Sleep not found, debugging life 
 
-<br> <br> <h3  align="center">  **Coding:**  where logic meets magic 🧠💫 </h3> <br><br>
+<br> <br> <h3  align="center">  **Coding:**  where logic meets magic 🧠🔮 </h3> <br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools:
 </b>
@@ -51,13 +50,13 @@
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SarahAbuirmeileh&count_private=true&theme=github_dark&hide_border=true" alt="SaarahAbuirmeileh's Contribution" width=400>
+  <img src="https://github-readme-stats.vercel.app/api?username=SarahAbuirmeileh&count_private=true&theme=jolly&hide_border=true" alt="SaarahAbuirmeileh's Contribution" width=400>
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SarahAbuirmeileh&count_private=true&theme=github_dark&hide_border=true" alt="SarahAbuirmeileh's Rating" width=440>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SarahAbuirmeileh&count_private=true&theme=jolly&hide_border=true" alt="SarahAbuirmeileh's Rating" width=440>
 </p>
 
 <p align = "center">
- <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=SarahAbuirmeileh&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=0d1117&title_color=559ff4&text_color=fcfcfc&icon_color=559ff4" alt = "RaghadAbusamor's Languages/Frameworks" width = 350 />
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=SarahAbuirmeileh&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=291b3e&title_color=ff64da&text_color=fcfcfc&icon_color=fcfcfc" alt = "RaghadAbusamor's Languages/Frameworks" width = 350 />
 </p>
 
 <br> 
@@ -66,7 +65,7 @@
 
 <h2 align="center">Visitors 👀</h2>
 <div align="center" >
-  <img src="https://profile-counter.glitch.me/RaghadAbusamor/count.svg"></img>
+  <img src="https://profile-counter.glitch.me/SarahAbuirmeileh/count.svg"></img>
 </div>
 
 
@@ -79,4 +78,4 @@
 </p>
 
 
-![Abhinandan Trilokia](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
