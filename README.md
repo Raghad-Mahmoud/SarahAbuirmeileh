@@ -1,9 +1,9 @@
 
 <div align="center" style="margin-top: 20px;">
     <b>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7358D9&random=false&width=500&lines=Hello+there!+🙋🏻‍♀️+I'm+Sarah+Abu+irmeileh" style="display: inline-block; vertical-align: top;">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=7358D9&random=false&width=700&lines=Hello+there!+🙋🏻‍♀️+I'm+Sarah+Abu+irmeileh" style="display: inline-block; vertical-align: top;">
     </b>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" style="display: inline-block; margin-left: 10px; vertical-align: top;">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" style="display: inline-block; margin-top: 5px;">
 </div>
 
 
