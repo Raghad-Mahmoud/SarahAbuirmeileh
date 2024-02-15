@@ -1,5 +1,12 @@
-<h1 align="center"><b> Hello there, I'm Sarah Abu irmeileh  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-<br> <br>  
+
+<div align="center" style="margin-top: 20px;">
+    <b>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=7358d9&random=false&width=435&lines=Hello+there!+🙋‍♀️+I'm+Sarah+Abu+irmeileh" style="display: inline-block; vertical-align: top;">
+    </b>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" style="display: inline-block; margin-left: 10px; vertical-align: top;">
+</div>
+
+
 
 <h3 align="center">Writing code that speaks louder than words 🔊✨</h3>
 
@@ -8,7 +15,7 @@
 <h1>About Me 💎</h1>
 <a target="_blank" align="center">
 <br>
-  <img align="right" top="100" height="250" width="370" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzd5d2ViODNvcnhjN29sa2ZwMTlsMnJ5b2FnMGNiNGFvNDVjMHU2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
+  <img align="right" top="100" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzd5d2ViODNvcnhjN29sa2ZwMTlsMnJ5b2FnMGNiNGFvNDVjMHU2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
 </a>
 
 
