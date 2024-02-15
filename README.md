@@ -8,7 +8,7 @@
 <h1>About Me 💎</h1>
 <a target="_blank" align="center">
 <br>
-  <img align="right" top="100" height="250" width="420" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzd5d2ViODNvcnhjN29sa2ZwMTlsMnJ5b2FnMGNiNGFvNDVjMHU2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
+  <img align="right" top="100" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzd5d2ViODNvcnhjN29sa2ZwMTlsMnJ5b2FnMGNiNGFvNDVjMHU2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
 </a>
 
 
