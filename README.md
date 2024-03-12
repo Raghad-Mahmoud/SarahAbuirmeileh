@@ -14,7 +14,7 @@
 <h1 >About Me ...💎</h1>
 <a target="_blank" align="center">
 <br>
-  <img align="right" top="100" height="350" width="350" alt="Sarah" src="https://github.com/SarahAbuirmeileh/SarahAbuirmeileh/assets/127017088/0fb1ac5c-ec36-4c4c-9196-6b95391fd95e">
+  <img align="right" top="100" height="300" width="300" alt="Sarah" src="https://github.com/SarahAbuirmeileh/SarahAbuirmeileh/assets/127017088/0fb1ac5c-ec36-4c4c-9196-6b95391fd95e">
 </a>
 
 
